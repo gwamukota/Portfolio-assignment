@@ -31,10 +31,10 @@ Google Fonts
 Installation & Setup
 
 Clone the repository
-git clone 
+git clone https://github.com/gwamukota/Portfolio-assignment.git
 
 Navigate to the project directory
-cd portfolio-website
+cd portfolio-assignment
 
 Open index.html in your browser to view the site
 
